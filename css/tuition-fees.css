@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+
+header nav a[href="../tuition-fees.php"]{
+    color: white;
+}
+
+#content{
+    margin-left: 10%;
+}
+
+footer{
+    position: fixed;
+    bottom: 0;
+}

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="28f0e14f-cb89-421d-a1cd-383d48a7f309" name="Scool Site" url="http://sondos.studentswebprojects.ritaj.ps">
+        <fileTransfer host="sondos.studentswebprojects.ritaj.ps" port="21" rootFolder="/web/comp334-project/">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
